@@ -1,0 +1,1 @@
+# MYSQL1_DDL-commands-constraints
