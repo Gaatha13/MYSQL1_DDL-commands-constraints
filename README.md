@@ -1,1 +1,3 @@
 # MYSQL1_DDL-commands-constraints
+
+The objective of this assignment is to enable us to gain practical experience with MySQL Data Definition Language (DDL) commands and database constraints. Through this assignment, we will understand how to create, modify, rename, truncate, and drop databases and tables using SQL. Additionally, we will learn to design a well-structured relational database by applying primary keys, unique constraints, NOT NULL constraints, CHECK constraints, DEFAULT values, AUTO_INCREMENT, and foreign key relationships. This assignment aims to strengthen foundational skills in database schema design, data integrity enforcement, and effective management of relational databases using MySQL.
